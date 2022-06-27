@@ -1,0 +1,19 @@
+1651715996392	Delete element
+1651716110582	Rename resource 'board(edit)'
+1651716153472	Rename resource 'list.jsp'
+1651717824963	Rename resource 'cart.editor'
+1651717845877	Delete element
+1651717910074	Delete element
+1651718008969	Rename type 'BuyVOeditor'
+1651718981709	Rename type 'CartDAOeditor'
+1651718987447	Rename type 'CartDAOImpleditor'
+1651719020241	Rename type 'ShopDAOeditor'
+1651719026095	Rename type 'ShopDAOImpleditor'
+1651719175988	Rename type 'BuyControllereditor'
+1651719204028	Rename type 'BuyDAOeditor'
+1651719210025	Rename type 'BuyDAOImpleditor'
+1651719275244	Delete element
+1651740787496	Rename resource 'AdoptMapper-editor.xml'
+1651740811919	Rename resource 'BuyMapper-editor.xml'
+1651740862572	Rename resource 'CartMapper-editor.xml'
+1651740876450	Rename resource 'ShopMapper-editor.xml'

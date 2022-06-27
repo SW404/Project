@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.example.dao.DoctorDAO"/>
+<fullyQualifiedTypeName name="com.example.domain.DoctorVO"/>
+<fullyQualifiedTypeName name="com.example.dao.AdoptDAO"/>
+</qualifiedTypeNameHistroy>
